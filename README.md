@@ -1,4 +1,4 @@
-# Histopathologic Cancer Detection | kaggle
+# CNN - Histopathologic Cancer Detection 
 This project is part of the Coursera Introduction to Deep Learning course. The main goal is a binary image classification task, involving the identification of metastatic cancer in small image patches extracted from larger digital pathology scans.
 
 [Kaggle competition](https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview)
@@ -10,6 +10,9 @@ This project is part of the Coursera Introduction to Deep Learning course. The m
 The original PCam dataset contains duplicate images due to its probabilistic sampling, however, the version presented on Kaggle does not contain duplicates. We have otherwise maintained the same data and splits as the PCam benchmark
 
 The dataset can be downloaded [here](https://www.kaggle.com/c/histopathologic-cancer-detection/data)
+
+# Score
+The model scored _0.83_ on the kaggle leaderboard
 
 # Reference
 - [Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection)
